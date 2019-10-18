@@ -1,3 +1,4 @@
+new change
 package PageFactory;
 
 import org.apache.log4j.Logger;
@@ -112,6 +113,4 @@ public void crtBkUpAuto(String scriptname,String sheetName,String frq,String ip,
 	Thread.sleep(3000);
 }
 
-changing backup content1	
-	change content in master branch
 }
